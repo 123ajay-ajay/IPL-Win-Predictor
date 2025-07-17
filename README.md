@@ -1,2 +1,9 @@
 # IPL-Win-Predictor
-An AI-powered cricket analytics tool that predicts the winning probability of IPL teams in real-time based on current match conditions.This system takes live match inputs like runs, wickets, overs, and teams — and predicts the chances (%) of both teams winning the match using trained ML models.
+This project predicts the winning probability of an IPL team based on real-time match data using machine learning algorithms..This system takes live match inputs like runs, wickets, overs, and teams — and predicts the chances (%) of both teams winning the match using trained ML models.
+
+Technologies Used:
+Python
+Pandas, NumPy
+Scikit-learn
+Matplotlib / Seaborn
+Jupyter Notebook / Streamlit (if GUI used)
