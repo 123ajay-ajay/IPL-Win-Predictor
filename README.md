@@ -9,3 +9,6 @@ This system takes live match inputs like runs, wickets, overs, and teams — and
 - Matplotlib / Seaborn
 - Streamlit
 - Jupyter Notebook 
+
+
+![IPL Win Predictor Output](output.png)
