@@ -11,4 +11,4 @@ This system takes live match inputs like runs, wickets, overs, and teams — and
 - Jupyter Notebook 
 
 
-![IPL Win Predictor Output]("C:\ml images\output.png")
+![IPL Win Predictor Output](".\output.png")
