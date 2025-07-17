@@ -10,5 +10,5 @@ This system takes live match inputs like runs, wickets, overs, and teams — and
 - Streamlit
 - Jupyter Notebook 
 
-
+## IPL Win Predictor Output
 ![IPL Prediction Output](images/IPL.png)
